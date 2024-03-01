@@ -1,0 +1,7 @@
+name: <AIland>
+channels:  
+ - defaults
+dependencies:  
+- python=<3.11.8>  
+- openai  
+- python-dotenv
